@@ -290,12 +290,12 @@ nav a:hover {
 
 @media screen and (max-width: 600px) {
 	.topnav.responsive {position: relative;}
-}
-{	.topnav.responsive a.icon {
+
+	.topnav.responsive a.icon {
 		position: absolute;
 		right: 0;
 		top: 0;
-	}} {
+	} {
 		.topnav.responsible a {
 		float: none;
 		display: block;
